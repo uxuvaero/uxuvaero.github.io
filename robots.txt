@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxuvaero.github.io/COd/sitemap_index.txt
+Sitemap: https://uxuvaero.github.io/dwS/sitemap_index.txt
+Sitemap: https://uxuvaero.github.io/gFG/sitemap_index.txt
+Sitemap: https://uxuvaero.github.io/irN/sitemap_index.txt
